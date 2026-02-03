@@ -1,4 +1,4 @@
-export const INDIAN_CITIES = {
+{
   "Andaman and Nicobar Islands": ["Port Blair"],
   "Haryana": [
     "Faridabad",
